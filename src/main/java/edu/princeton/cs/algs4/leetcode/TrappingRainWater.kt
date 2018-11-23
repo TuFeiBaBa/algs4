@@ -1,4 +1,4 @@
-package edu.princeton.cs.algs4.leetcode.exercise
+package edu.princeton.cs.algs4.leetcode
 
 import edu.princeton.cs.algs4.Stack
 

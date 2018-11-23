@@ -1,6 +1,4 @@
-package edu.princeton.cs.algs4.leetcode.exercise
-
-import edu.princeton.cs.algs4.leetcode.Stack
+package edu.princeton.cs.algs4.leetcode
 
 /**
  * @author TuFei
